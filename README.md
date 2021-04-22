@@ -53,7 +53,7 @@
 |블랙잭/step1|[java-blackjack/step1](https://github.com/younghoonkwon/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/131)|[포츈](https://github.com/unluckyjung)|[코니](https://github.com/choihz)|
 |블랙잭/step2|[java-blackjack/step2](https://github.com/younghoonkwon/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/197)| |[코니](https://github.com/choihz)|
 |체스/step1|[java-chess/step1](https://github.com/younghoonkwon/java-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/java-chess/pull/175)|[제리](https://github.com/jaeseongdev)|[게이츠](https://github.com/serverwizard)|
-|체스/step2|[java-chess/step2](https://github.com/younghoonkwon/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/197)| |[게이츠](https://github.com/serverwizard)|
+|체스/step2|[java-chess/step2](https://github.com/younghoonkwon/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-chess/pull/235)| |[게이츠](https://github.com/serverwizard)|
 |투두리스트/step1|[js-todo-list-step1](https://github.com/younghoonkwon/js-todo-list-step1/tree/step1)|[Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/3)| | |
 
 <br/>
