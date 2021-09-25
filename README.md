@@ -69,9 +69,4 @@
 
 <br/>
 
-## 📝 Writing : 글쓰기 코스
-### 진행 미션
-|Level |Topic |Repository |Pull Request |Reviewer |
-|:----:|:----:|:---------:|:-----------:|:-------:|
-|1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-3/younghoonkwon/LEVEL1.md](https://github.com/younghoonkwon/woowa-writing-3/tree/step1)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/73)|[CU](https://github.com/woowahanCU)|
 
