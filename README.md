@@ -1,7 +1,7 @@
 # 🚀 woowacourse-projects
 
 <p align="center">
-    <img src='https://github.com/da-nyee/woowacourse-projects/raw/master/img/techcourse_poster_3nd.jpg' width="50%">
+    <img src='https://user-images.githubusercontent.com/28701943/135020435-d6f42e34-4c3d-4e30-9007-3244d39c434a.jpeg' width="50%">
 </p>
 
 
